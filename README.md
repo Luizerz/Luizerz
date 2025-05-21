@@ -1,7 +1,7 @@
 # Sobre mim
 
 * 🤔 &nbsp; Desenvolvendo soluções e buscando a melhor forma para fazer isso.
-* 🎓 &nbsp; Graduando em Engenharia de Computação no <a href="https://ifce.edu.br">IFCE</a>.
+* 🎓 &nbsp; Graduado em Engenharia de Computação pelo <a href="https://ifce.edu.br">IFCE</a>.
 * 💼 &nbsp; Alumini da <a href="http://developeracademy.ifce.edu.br">Apple Developer Academy IFCE</a>.
 
 <div>
